@@ -1,2 +1,2 @@
 hello
-this is script file
+this is script files
